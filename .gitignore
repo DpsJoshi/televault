@@ -1,0 +1,13 @@
+.env
+data/
+*.session
+backend/.venv/
+backend/**/__pycache__/
+backend/**/*.pyc
+frontend/dist/
+frontend/node_modules/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
